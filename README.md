@@ -30,7 +30,7 @@ Weighted medal scoring confirmed the expected performance hierarchy, with the Un
 
 Modelling Medal Haul
 Two models were used to identify predictors of medal success:
-### Negative Binomial Regression
+### A. Negative Binomial Regression
 The model showed that:
 
 Number of athletes and
@@ -39,7 +39,7 @@ Number of sports entered
 are both strong, significant predictors of total medals.
 The average female ratio of a team was not statistically significant once those factors were accounted for.
 
-### 2. Random Forest Regression
+### B. Random Forest Regression
 The random forest achieved strong predictive accuracy (R² = 0.80 on the test set). Variable importance rankings confirmed the regression findings:
 
 Team size and sport diversity were by far the most influential variables.
