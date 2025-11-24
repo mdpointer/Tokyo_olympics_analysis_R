@@ -1,24 +1,24 @@
 # Tokyo_olympics_analysis_R
-An analysis of data from the 2021 Tokyo olympics conducted in R v4.3.3.Data obtained from https://github.com/MainakRepositor/Datasets/tree/master/Tokyo-Olympics
+An analysis of data from the 2021 Tokyo olympics conducted in R v4.3.3.Data obtained from https://github.com/MainakRepositor/Datasets/tree/master/Tokyo-Olympics  
 View the full report with visualisations in the olympics_report_markdown.html file.
 
 ## Files:
-Athletes.csv
-Coaches.csv
-Gender.csv
-Medals.csv
-Teams.csv
-Tokyo_Medals_2021.csv
-olympics_report_markdown.html
-
-## Scritps
-olympics_analysis_pipeline.R
-olympics_load_and_clean_data.R
-olympics_explore_athletes_and_coaches.R
-olympics_explore_gender_balance.R
-olympics_explore_medals.R
-olympics_model_medal_haul.R
-olympics_report_markdown.Rmd
+Athletes.csv  
+Coaches.csv  
+Gender.csv  
+Medals.csv  
+Teams.csv  
+Tokyo_Medals_2021.csv  
+olympics_report_markdown.html  
+  
+## Scritps  
+olympics_analysis_pipeline.R  
+olympics_load_and_clean_data.R  
+olympics_explore_athletes_and_coaches.R  
+olympics_explore_gender_balance.R  
+olympics_explore_medals.R  
+olympics_model_medal_haul.R  
+olympics_report_markdown.Rmd  
 
 
 
